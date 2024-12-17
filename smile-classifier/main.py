@@ -27,6 +27,10 @@ models.Base.metadata.create_all(bind=engine)
 
 #Dependency
 def get_db():
+    """
+    Returns a database session for the request.
+    Closes the session after the request is completed.
+    """
     db = SessionLocal()
     try:
         yield db
@@ -35,15 +39,46 @@ def get_db():
 
 @app.get("/")
 async def root(request: Request):
+    """
+    Renders the home page of the application.
+
+    Args:
+        request (Request): FastAPI request object.
+
+    Returns:
+        HTMLResponse: Renders the home.html template.
+    """
     return templates.TemplateResponse("home.html", {"request": request})
 
 @app.get("/classify")
 async def classify_page(request: Request):
+    """
+    Renders the image classification page.
+
+    Args:
+        request (Request): FastAPI request object.
+
+    Returns:
+        HTMLResponse: Renders the classify.html template.
+    """
     return templates.TemplateResponse("classify.html", {"request": request})
 
 @app.post("/classify")
 async def upload_image(file: UploadFile, session:Session=Depends(get_db)):
-    
+    """
+    Uploads an image, processes it, classifies the image as 'smiling' or 'not smiling',
+    and stores the result in the database.
+
+    Args:
+        file (UploadFile): The uploaded image file (PNG/JPEG/JPG).
+        session (Session): SQLAlchemy database session dependency.
+
+    Returns:
+        RedirectResponse: Redirects to the result page with the image classification.
+
+    Raises:
+        HTTPException: If the file type is invalid or an error occurs during processing.
+    """
     if file.content_type not in ["image/png", "image/jpeg", "image/jpg"]:
         raise HTTPException(status_code=400, detail="Invalid file type. Only PNG and JPEG are supported.")
     print(file.filename)
@@ -79,6 +114,20 @@ async def upload_image(file: UploadFile, session:Session=Depends(get_db)):
 
 @app.get("/classify/{image_id}", response_class=HTMLResponse)
 async def classify_image(image_id: int, request: Request, session:Session=Depends(get_db)):
+    """
+    Displays the classification result for a given image ID.
+
+    Args:
+        image_id (int): The ID of the image in the database.
+        request (Request): FastAPI request object.
+        session (Session): SQLAlchemy database session dependency.
+
+    Returns:
+        HTMLResponse: Renders the classification result template.
+
+    Raises:
+        HTTPException: If the image record is not found in the database.
+    """
     record = session.query(history).filter(history.id == image_id).first()
     session.close()
     if record:
@@ -89,6 +138,16 @@ async def classify_image(image_id: int, request: Request, session:Session=Depend
 
 @app.get("/history")
 async def classify_page(request: Request, session:Session=Depends(get_db)):
+    """
+    Displays the history of image classifications stored in the database.
+
+    Args:
+        request (Request): FastAPI request object.
+        session (Session): SQLAlchemy database session dependency.
+
+    Returns:
+        HTMLResponse: Renders the history.html template with the classification history.
+    """
     result = session.query(history).all()
     session.close()
     return templates.TemplateResponse("history.html", {"request": request, "result": result})
