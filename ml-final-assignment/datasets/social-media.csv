@@ -1,0 +1,1020 @@
+Timestamp,Age, Gender  ," Major (Computer Science, Business, Engineering, etc.)   ", Hours Spent on Social Media per Day (Average), Primary Social Media Platform., Frequency of Posting in social media ,Number of Friends  or Followers in social media," Academic Performance: (categorical: Good, Average, Poor).   "
+12/13/2024 14:02:02,25,Male,Computer Science,3,Instagram,Rarely,8,Poor
+12/13/2024 14:05:42,25,Male,Computer Science,3,Facebook,Rarely,30,Average
+12/13/2024 14:07:30,24,Female,Computer Science,3,Facebook,Sometimes,600,Average
+12/13/2024 14:13:50,25,Male,Computer Science,1,Facebook,Rarely,500,Poor
+12/13/2024 14:17:34,24,Male,Computer Science,3,Facebook,Rarely,20,Average
+12/13/2024 14:20:24,25,Male,Computer Science,3,Facebook,Sometimes,2500,Good
+12/13/2024 14:20:59,25,Male,IT,4,Facebook,Rarely,955,Average
+12/13/2024 14:21:45,25,Male,Computer Science,2,Facebook,Rarely,1100,Average
+12/13/2024 14:22:13,23,Male,CSE,1.5,Facebook,Rarely,300,Average
+12/13/2024 14:22:36,25,Male,Computer Science & Engineering,2,Facebook,Rarely,560,Average
+12/13/2024 14:28:32,25,Male,EEE,2,Twitter,Rarely,190,Average
+12/13/2024 14:33:35,25,Male,CSE,3,Facebook,Rarely,600,Good
+12/13/2024 14:35:03,27,Male,Computer Science,2,Facebook,Rarely,700,Average
+12/13/2024 14:35:10,25,Male,CSE,3,Facebook,Sometimes,500,Good
+12/13/2024 14:35:19,25,Male,CSE,3,Facebook,Rarely,500,Good
+12/13/2024 14:40:48,25,Male,EEE,2,Twitter,Rarely,190,Average
+12/13/2024 14:43:59,25,Male,Computer Science ,1,Facebook,Rarely,3000,Good
+12/13/2024 15:45:16,26,Male,CSE,4,Facebook,Never,100,Average
+12/13/2024 15:57:13,25,Male,Computer Science,1,LinkedIn,Sometimes,1200+,Good
+12/17/2024 8:02:04,26,Male,Computer Science,6,Facebook,Rarely,400,Average
+12/14/2024 10:02:15,24,Female,Computer Science,2,Instagram,Rarely,350,Good
+12/14/2024 10:05:47,26,Male,CSE,3,Facebook,Sometimes,1500,Good
+12/14/2024 10:08:20,23,Female,IT,1,Twitter,Rarely,80,Average
+12/14/2024 10:12:30,25,Male,Computer Science,2,Facebook,Rarely,400,Poor
+12/14/2024 10:14:18,27,Male,EEE,4,LinkedIn,Sometimes,500+,Good
+12/14/2024 10:15:59,24,Female,CSE,1.5,Instagram,Rarely,220,Average
+12/14/2024 10:18:42,25,Male,IT,3,Facebook,Sometimes,2500,Good
+12/14/2024 10:20:10,26,Male,EEE,2,Twitter,Rarely,200,Average
+12/14/2024 10:21:45,24,Female,Computer Science,3,Facebook,Sometimes,1500,Good
+12/14/2024 10:23:17,25,Male,CSE,2,Facebook,Rarely,600,Average
+12/14/2024 10:25:33,23,Male,Computer Science,1,Facebook,Rarely,300,Poor
+12/14/2024 10:27:20,26,Female,IT,3,Instagram,Rarely,800,Good
+12/14/2024 10:29:45,25,Male,EEE,4,Twitter,Rarely,400,Average
+12/14/2024 10:32:17,24,Male,CSE,2,Facebook,Rarely,1000,Good
+12/14/2024 10:35:00,27,Female,Computer Science,3,Instagram,Sometimes,1500,Good
+12/14/2024 10:37:25,25,Male,CSE,1.5,Facebook,Rarely,500,Average
+12/14/2024 10:39:40,24,Female,Computer Science,3,Instagram,Rarely,700,Good
+12/14/2024 10:41:15,26,Male,IT,2,Facebook,Rarely,650,Average
+12/14/2024 10:43:50,23,Male,EEE,1,LinkedIn,Rarely,400+,Good
+12/14/2024 10:45:22,25,Female,CSE,3,Facebook,Sometimes,2000,Good
+12/14/2024 10:48:19,26,Male,EEE,2.5,Twitter,Rarely,250,Average
+12/14/2024 10:50:32,24,Male,Computer Science,1.5,Instagram,Rarely,300,Poor
+12/14/2024 10:52:55,23,Female,CSE,2,Facebook,Rarely,700,Average
+12/14/2024 10:55:33,25,Male,EEE,3,Facebook,Sometimes,1200,Good
+12/14/2024 10:57:15,24,Female,IT,1.5,Instagram,Rarely,500,Average
+12/14/2024 10:59:50,26,Male,Computer Science,3,Facebook,Sometimes,1800,Good
+12/14/2024 11:01:20,27,Male,CSE,4,Twitter,Rarely,90,Average
+12/14/2024 11:03:45,25,Female,Computer Science,1.5,LinkedIn,Sometimes,950+,Good
+12/14/2024 11:06:10,26,Male,CSE,3,Facebook,Rarely,1200,Good
+12/14/2024 11:08:25,25,Male,EEE,1,Facebook,Rarely,350,Poor
+12/14/2024 11:10:40,24,Female,IT,2,Instagram,Sometimes,600,Good
+12/14/2024 11:12:55,25,Male,Computer Science,4,Facebook,Never,50,Average
+12/14/2024 11:15:18,24,Female,CSE,2,Facebook,Rarely,800,Good
+12/14/2024 11:17:50,27,Male,Computer Science,1.5,LinkedIn,Rarely,450+,Average
+12/14/2024 11:19:33,23,Male,EEE,3,Twitter,Rarely,500,Good
+12/14/2024 11:21:55,25,Female,IT,2,Instagram,Rarely,250,Good
+12/14/2024 11:23:37,26,Male,Computer Science,2.5,Facebook,Sometimes,1000,Good
+12/14/2024 11:25:10,27,Male,CSE,3,Facebook,Rarely,800,Average
+12/14/2024 11:27:40,25,Female,IT,1.5,Instagram,Rarely,300,Poor
+12/14/2024 11:30:15,26,Male,CSE,3,Facebook,Sometimes,1800,Good
+12/14/2024 11:32:50,25,Male,EEE,4,Twitter,Rarely,70,Average
+12/14/2024 11:35:15,24,Female,Computer Science,2,LinkedIn,Sometimes,600+,Good
+12/14/2024 11:37:25,26,Male,CSE,1.5,Facebook,Rarely,400,Poor
+12/14/2024 11:39:45,23,Female,Computer Science,3,Instagram,Rarely,1500,Good
+12/14/2024 11:42:00,25,Male,IT,2.5,Facebook,Sometimes,850,Average
+12/14/2024 11:44:33,24,Male,EEE,3,Twitter,Rarely,200,Good
+12/14/2024 11:47:10,25,Female,CSE,4,Instagram,Rarely,1200,Good
+12/14/2024 11:50:18,26,Male,Computer Science,2,Facebook,Rarely,450,Average
+12/14/2024 11:53:22,23,Female,EEE,3,LinkedIn,Rarely,900+,Good
+12/14/2024 11:55:45,25,Male,IT,2,Facebook,Rarely,600,Poor
+12/14/2024 11:58:20,24,Female,CSE,1.5,Instagram,Rarely,300,Average
+12/14/2024 12:01:50,26,Male,Computer Science,2,Facebook,Sometimes,1100,Good
+12/14/2024 12:05:10,25,Female,EEE,3,Twitter,Rarely,250,Average
+12/14/2024 12:08:33,27,Male,CSE,4,Facebook,Rarely,800,Good
+12/14/2024 12:11:45,24,Female,IT,2,Instagram,Rarely,400,Good
+12/14/2024 12:15:00,26,Male,Computer Science,3,Facebook,Sometimes,2000,Good
+12/14/2024 12:18:10,25,Male,CSE,2,Facebook,Rarely,750,Average
+12/14/2024 12:21:25,23,Female,EEE,3,Twitter,Rarely,500,Good
+12/14/2024 12:24:50,24,Male,Computer Science,1.5,LinkedIn,Sometimes,600+,Good
+12/14/2024 12:27:33,26,Female,CSE,2.5,Instagram,Rarely,400,Average
+12/14/2024 12:30:10,27,Male,IT,3,Facebook,Sometimes,1400,Good
+12/14/2024 12:32:45,25,Male,Computer Science,1.5,Facebook,Rarely,500,Poor
+12/14/2024 12:35:20,24,Female,CSE,2,Instagram,Rarely,300,Average
+12/14/2024 13:02:25,23,Female,CSE,2.5,Facebook,Rarely,450,Good
+12/14/2024 13:05:12,24,Male,IT,3,Instagram,Sometimes,800,Average
+12/14/2024 13:08:34,25,Female,EEE,1.5,Twitter,Rarely,120,Good
+12/14/2024 13:10:55,27,Male,CSE,4,Facebook,Never,60,Average
+12/14/2024 13:12:48,26,Female,Computer Science,3,LinkedIn,Sometimes,1000+,Good
+12/14/2024 13:15:30,25,Male,CSE,2.5,Facebook,Rarely,900,Good
+12/14/2024 13:18:05,24,Female,IT,1,Instagram,Rarely,200,Poor
+12/14/2024 13:20:42,26,Male,EEE,3,Twitter,Rarely,300,Average
+12/14/2024 13:22:30,24,Male,Computer Science,1.5,Facebook,Sometimes,400,Good
+12/14/2024 13:25:10,23,Female,CSE,2,LinkedIn,Rarely,500+,Good
+12/14/2024 13:28:55,25,Male,IT,4,Facebook,Rarely,1500,Good
+12/14/2024 13:31:40,27,Male,EEE,1.5,Twitter,Rarely,200,Poor
+12/14/2024 13:33:25,24,Female,Computer Science,3,Instagram,Sometimes,1200,Good
+12/14/2024 13:35:47,25,Male,CSE,2,Facebook,Rarely,450,Average
+12/14/2024 13:37:50,26,Female,EEE,4,LinkedIn,Sometimes,800+,Good
+12/14/2024 13:40:32,23,Male,IT,1.5,Instagram,Rarely,350,Average
+12/14/2024 13:43:12,25,Male,Computer Science,3,Facebook,Sometimes,2000,Good
+12/14/2024 13:45:30,24,Female,CSE,2.5,LinkedIn,Rarely,750,Good
+12/14/2024 13:48:18,27,Male,EEE,3,Twitter,Rarely,100,Poor
+12/14/2024 13:50:44,26,Male,Computer Science,1.5,Facebook,Rarely,400,Poor
+12/14/2024 13:53:10,24,Female,IT,2,Instagram,Sometimes,600,Average
+12/14/2024 13:55:55,25,Male,EEE,4,Twitter,Rarely,300,Average
+12/14/2024 13:58:20,23,Female,Computer Science,1,LinkedIn,Sometimes,500+,Good
+12/14/2024 14:00:55,26,Male,IT,3,Facebook,Rarely,1200,Good
+12/14/2024 14:03:30,25,Female,CSE,2,Instagram,Rarely,550,Good
+,25,Female,Computer Science,7.2,Instagram,Rarely,336,Average
+,23,Male,,7.1,Twitter,Rarely,945,Average
+,21,Male,Business,0,Snapchat,Never,1411,Good
+,25,Female,IT,7.7,LinkedIn,Rarely,1359,Poor
+,20,Female,,7.1,Instagram,Rarely,924,Poor
+,18,Female,Biology,0.9,Snapchat,Sometimes,368,Good
+,25,Female,Mechanical,6.7,Snapchat,Rarely,75,Average
+,26,Female,CSE,0.6,Snapchat,Rarely,650,Good
+,25,Male,,5.7,Facebook,Never,848,Average
+,23,,EEE,0.3,Facebook,Sometimes,549,Good
+,22,Male,Psychology,0.6,Facebook,Rarely,1017,Good
+,26,Female,CSE,0.5,TikTok,Rarely,272,Good
+,22,Female,Business,3.1,Twitter,,1010,Poor
+,22,Female,Biology,2.9,Twitter,Rarely,1049,Average
+,18,Male,,0.6,LinkedIn,Sometimes,1334,Average
+,23,Female,IT,6.5,LinkedIn,Rarely,292,Poor
+,20,Male,Mechanical,1.7,Snapchat,Often,1467,Good
+,25,Male,,3.3,LinkedIn,Rarely,716,Average
+,24,Male,EEE,7.5,Facebook,Often,1373,Average
+,26,Male,Biology,1.6,LinkedIn,Sometimes,445,Good
+,21,Male,,5.3,Instagram,Rarely,382,Average
+,19,Female,Psychology,0.4,Facebook,Rarely,375,Average
+,23,Male,,4.2,TikTok,Rarely,1416,Average
+,24,Female,CSE,7.5,Snapchat,Sometimes,1276,Average
+,25,Female,Computer Science,6,TikTok,Rarely,269,Poor
+,19,Male,Psychology,4.2,Snapchat,Sometimes,248,Poor
+,24,Male,,4.7,LinkedIn,Often,475,Average
+,20,Female,IT,3.8,TikTok,Rarely,1001,Poor
+,23,Female,Biology,6.4,Instagram,Rarely,223,Poor
+,21,Female,Business,0.8,Snapchat,Sometimes,623,Good
+,20,Male,Computer Science,1.5,LinkedIn,Sometimes,933,Good
+,21,Male,IT,2.5,LinkedIn,Never,0,Good
+,25,Male,IT,7.6,Instagram,Rarely,739,Average
+,19,Male,Computer Science,5.1,Facebook,Rarely,737,Good
+,23,Female,Mechanical,6,Snapchat,Sometimes,1076,Poor
+,20,Male,Business,7.1,LinkedIn,Never,818,Average
+,20,Female,Computer Science,3.9,LinkedIn,Sometimes,1007,Average
+,18,Female,Psychology,1.8,Facebook,Rarely,1013,Good
+,18,Male,EEE,6.2,Instagram,Rarely,71,Average
+,26,Male,EEE,0.2,LinkedIn,Rarely,1313,Good
+,21,Female,EEE,3.4,Instagram,Sometimes,1044,Poor
+,20,Female,Mechanical,3,TikTok,Sometimes,1421,Average
+,24,Female,Biology,0.9,Facebook,Often,1322,Good
+,26,Female,CSE,5.5,TikTok,Rarely,1403,Average
+,23,Female,CSE,8,Facebook,Rarely,768,Average
+,18,Male,CSE,2.3,LinkedIn,Rarely,301,Average
+,24,Male,Mechanical,2.6,Snapchat,Sometimes,640,Good
+,21,Male,Computer Science,3.5,LinkedIn,Rarely,369,Average
+,19,Female,CSE,2.7,TikTok,Sometimes,1361,Average
+,20,Male,CSE,2.4,Snapchat,Sometimes,334,Average
+,26,Male,EEE,7.8,LinkedIn,Rarely,1426,Poor
+,18,Female,IT,4.5,Twitter,Rarely,929,Average
+,23,Male,Psychology,6.7,LinkedIn,Rarely,1385,Average
+,25,Male,Mechanical,5.5,Instagram,Rarely,1483,Good
+,23,Male,Biology,4.7,LinkedIn,Sometimes,742,Average
+,18,Female,Mechanical,6.2,Instagram,Rarely,1486,Poor
+,25,Male,IT,3.9,Twitter,Sometimes,980,Good
+,21,Male,Biology,2,LinkedIn,Rarely,183,Good
+,19,Female,,6.3,Instagram,Rarely,688,Average
+,19,Female,Psychology,4,LinkedIn,Rarely,173,Average
+,21,Female,Biology,7.5,Instagram,Sometimes,1306,Poor
+,24,Male,,4.7,Twitter,Sometimes,337,Average
+,19,Female,Business,7.3,Twitter,Rarely,1337,Good
+,19,Female,Psychology,0.7,Instagram,Sometimes,408,Good
+,20,Female,Mechanical,7.1,Snapchat,Rarely,152,Good
+,24,Female,Computer Science,7.9,Facebook,Sometimes,287,Average
+,18,Female,,7.6,Facebook,Rarely,472,Good
+,25,Male,Mechanical,6.4,Snapchat,Rarely,748,Average
+,24,Female,Psychology,5.9,Facebook,Never,689,Good
+,20,Male,Business,2,Facebook,Never,1008,Good
+,24,Male,CSE,5.3,Instagram,Never,559,Poor
+,18,Female,Mechanical,6.6,Twitter,Rarely,1277,Poor
+,19,Female,Business,1.6,Facebook,Rarely,635,Good
+,21,Female,IT,0,LinkedIn,Never,449,Good
+,21,Male,Mechanical,0,LinkedIn,Never,354,Good
+,22,Female,Mechanical,2.8,TikTok,Sometimes,1048,Good
+,19,Male,,4.9,LinkedIn,Sometimes,886,Average
+,25,Male,Psychology,5.7,Twitter,Rarely,1131,Average
+,19,Female,,0,TikTok,Never,748,Good
+,25,Male,CSE,2.6,Instagram,Rarely,513,Average
+,19,Female,IT,7.2,TikTok,Rarely,237,Average
+,23,Male,IT,3.6,Snapchat,Rarely,1172,Average
+,26,Female,Computer Science,0.3,LinkedIn,Rarely,1206,Good
+,25,Male,CSE,11,Twitter,Daily,1165,Poor
+,18,Female,Mechanical,1.5,TikTok,Rarely,55,Average
+,24,Male,EEE,6.6,TikTok,Rarely,973,Poor
+,24,Male,Psychology,3.8,Twitter,Often,370,Good
+,22,Male,Computer Science,6.3,Facebook,Sometimes,1392,Poor
+,19,Female,CSE,2.2,LinkedIn,Sometimes,101,Good
+,25,Female,EEE,3.6,Instagram,Rarely,68,Poor
+,20,Female,Psychology,3.7,Twitter,Often,587,Average
+,23,Female,Computer Science,2.3,Facebook,Often,1123,Good
+,23,Male,Computer Science,6.8,Instagram,Rarely,62,Good
+,19,Female,IT,0,Facebook,Never,1383,Good
+,22,Female,Biology,3,Facebook,Often,945,Good
+,26,Female,Business,0.2,Twitter,Sometimes,397,Good
+,21,Female,,0.3,LinkedIn,Sometimes,888,Average
+,21,Male,EEE,6.6,Instagram,Rarely,350,Average
+,21,Male,Computer Science,6,Instagram,Sometimes,51,Average
+,21,Female,Psychology,2.8,Snapchat,Never,693,Good
+,25,Male,Psychology,4,TikTok,Sometimes,726,Average
+,25,Female,Computer Science,5.3,Instagram,Rarely,1316,Poor
+,20,Female,Business,1.1,TikTok,Often,258,Good
+,18,Female,IT,4.1,Snapchat,Rarely,420,Poor
+,21,Female,Computer Science,4.9,Snapchat,Rarely,1137,Average
+,22,Male,Mechanical,7.7,LinkedIn,Sometimes,638,Poor
+,18,,Business,7.9,Snapchat,Never,263,Poor
+,24,Male,Computer Science,6.7,Instagram,Rarely,468,Average
+,20,Female,Biology,10,Facebook,Daily,515,Poor
+,20,Female,Psychology,2.8,Instagram,Sometimes,1383,Good
+,18,,Business,7.2,TikTok,Rarely,720,Poor
+,23,Female,Computer Science,1.8,Facebook,Often,482,Average
+,24,Female,Psychology,3.5,Instagram,Rarely,65,Poor
+,23,Male,Biology,5.7,Facebook,Never,378,Poor
+,20,Male,,1.9,Snapchat,Sometimes,455,Average
+,20,Male,IT,6.9,LinkedIn,Sometimes,1322,Average
+,23,Female,Computer Science,4.5,Snapchat,Sometimes,1064,Average
+,19,Male,EEE,2.8,Instagram,Rarely,818,Good
+,24,Female,IT,0,Snapchat,Never,1104,Poor
+,22,Female,EEE,1.3,Facebook,Sometimes,1390,Good
+,18,,EEE,1.5,Snapchat,Sometimes,526,Good
+,20,Male,EEE,5,Snapchat,Never,94,Poor
+,24,Female,Psychology,7.3,Instagram,Never,180,Average
+,25,Female,EEE,2.9,Facebook,Often,797,
+,19,Male,CSE,4.8,TikTok,Rarely,1132,Average
+,26,Male,IT,6.5,TikTok,Rarely,358,Poor
+,18,Male,,2.6,Twitter,Sometimes,1072,Average
+,23,Female,Biology,3.9,Instagram,Rarely,444,Good
+,18,,Psychology,0,Snapchat,Never,474,Poor
+,26,Male,Biology,3,Twitter,Rarely,1215,Average
+,26,Male,Computer Science,4.8,Snapchat,Rarely,1433,Poor
+,22,Male,IT,7.6,Facebook,Rarely,874,Poor
+,26,Male,Computer Science,4.6,Facebook,Often,578,Poor
+,22,Male,Biology,6.7,TikTok,Often,1130,Average
+,19,Male,Biology,4.3,Twitter,Often,1387,Poor
+,22,Female,CSE,1.2,LinkedIn,Never,75,
+,26,Female,EEE,2.7,Facebook,Rarely,5036,Average
+,20,Male,Business,2.9,LinkedIn,Rarely,450,Good
+,26,Female,,3.6,TikTok,Sometimes,118,Average
+,25,Male,Computer Science,2.1,Instagram,Sometimes,1109,Average
+,24,Male,CSE,4.6,TikTok,Sometimes,369,Average
+,26,Male,Psychology,1.7,Twitter,Never,749,Average
+,19,,Business,0.4,TikTok,Never,790,Good
+,25,Male,EEE,0.6,Instagram,Rarely,143,Good
+,18,Male,Biology,5.4,TikTok,Sometimes,114,Average
+,23,Male,CSE,3.5,Twitter,Never,701,Poor
+,19,Male,EEE,5.8,Twitter,Rarely,1446,Poor
+,24,Male,Biology,1.3,TikTok,Rarely,949,Average
+,19,Female,Psychology,0.3,Instagram,Sometimes,528,Good
+,25,Female,Psychology,3.8,Instagram,Rarely,593,Average
+,21,Male,Business,1.5,TikTok,Often,1355,
+,20,Male,Psychology,2,LinkedIn,Rarely,427,Good
+,19,Female,Biology,0.3,Twitter,Never,298,Good
+,22,Female,CSE,3.5,Facebook,Rarely,301,Good
+,24,Female,Mechanical,4.1,TikTok,Rarely,613,Average
+,25,Female,IT,7.6,Twitter,Sometimes,214,Poor
+,24,Male,Business,5.3,Snapchat,Rarely,81,Good
+,24,Male,Psychology,2,LinkedIn,Sometimes,194,Average
+,26,Female,Computer Science,4,Twitter,Rarely,724,Average
+,18,Female,EEE,7.7,LinkedIn,Sometimes,0,Poor
+,22,Female,IT,1.1,LinkedIn,Sometimes,277,Good
+,26,Male,CSE,1.4,Twitter,Sometimes,1262,Average
+,26,Female,Mechanical,5.7,Instagram,Often,130,Poor
+,22,Female,IT,6.8,Instagram,Rarely,1229,Good
+,19,Male,Business,5.7,Facebook,Sometimes,1457,Average
+,26,Male,CSE,1.5,Instagram,Sometimes,1105,
+,23,Male,CSE,1.5,Facebook,Rarely,518,Good
+,20,Female,Business,3.1,TikTok,Sometimes,1261,Average
+,24,Male,Biology,4.7,Instagram,Sometimes,562,Good
+,23,Female,Biology,0.7,Snapchat,Rarely,1051,Good
+,24,Male,Computer Science,3.6,Instagram,Sometimes,1083,Average
+,21,Female,Mechanical,7,Facebook,Rarely,536,Average
+,23,Female,CSE,5.7,TikTok,Often,421,Average
+,20,Male,Computer Science,12,Facebook,Sometimes,864,Poor
+,18,Female,Mechanical,4.4,Facebook,Rarely,1145,
+,21,Male,Biology,5.7,TikTok,Never,1491,Average
+,23,Female,IT,3.7,Snapchat,Sometimes,8616,Good
+,19,Male,Business,1.9,Facebook,Often,1474,Average
+,26,Male,IT,0.2,Instagram,Rarely,1197,Average
+,24,Male,EEE,0.1,Snapchat,Rarely,308,Good
+,24,Male,Business,0,TikTok,Never,690,Good
+,23,,Psychology,1.2,Snapchat,Often,508,Good
+,20,Male,Biology,7.1,Facebook,Never,558,Good
+,25,Female,,6.2,Twitter,Sometimes,678,Average
+,18,Male,Computer Science,4.5,Snapchat,Sometimes,1147,Average
+,20,Female,Business,4.5,TikTok,Rarely,203,Average
+,18,Male,IT,0.2,Snapchat,Rarely,811,Average
+,24,Male,IT,1.4,Snapchat,Sometimes,0,Good
+,26,Male,Biology,7,Facebook,Sometimes,93,Average
+,24,Male,Mechanical,7.7,Facebook,Rarely,99,Average
+,25,Male,Psychology,7.7,Twitter,Often,487,Average
+,21,Female,IT,6.2,TikTok,Sometimes,1330,Good
+,24,Male,IT,0.4,LinkedIn,Sometimes,0,Average
+,22,Male,EEE,6.4,Facebook,Sometimes,341,Average
+,21,Female,Psychology,1.9,Instagram,Never,259,Average
+,25,Male,Mechanical,1.4,Facebook,Rarely,1445,Good
+,19,Male,Computer Science,7.8,Facebook,Rarely,269,Average
+,19,Female,CSE,4.1,Facebook,Rarely,987,Average
+,26,Male,Computer Science,7.4,LinkedIn,Rarely,761,Average
+4/13/2024 7:53,26,Male,CSE,2,Facebook,Sometimes,1804,Average
+11/19/2024 16:59,26,Male,Computer Science,3,Facebook,Never,676,Poor
+2/10/2024 7:56,25,Female,Computer Science,2,Instagram,Sometimes,1045,Poor
+5/21/2024 0:48,27,Male,IT,3,Twitter,Rarely,1564,Average
+4/18/2024 19:28,25,Male,CSE,2,Facebook,Often,523,Poor
+5/1/2024 8:13,27,Male,Computer Science,2,Instagram,Daily,807,Average
+9/15/2024 20:05,26,Male,IT,1,Twitter,Never,2499,Poor
+4/11/2024 23:49,26,Female,CSE,1,Facebook,Sometimes,880,Good
+2/16/2024 14:25,25,Male,Computer Science,3,Twitter,Sometimes,790,Poor
+4/18/2024 12:59,26,Male,EEE,1,LinkedIn,Often,1434,Good
+5/21/2024 17:55,27,Female,EEE,4,Twitter,Often,979,Poor
+8/25/2024 6:18,27,Male,IT,2,Instagram,Rarely,811,Good
+10/8/2024 1:14,25,Male,EEE,3,Facebook,Sometimes,1857,Average
+8/30/2024 1:22,26,Female,Computer Science,1,Instagram,Rarely,1292,Poor
+9/24/2024 16:21,27,Female,IT,1,LinkedIn,Rarely,2425,Poor
+9/16/2024 13:57,25,Female,Computer Science,3,Twitter,Never,2003,Good
+3/8/2024 3:58,26,Male,CSE,1,Instagram,Never,1292,Good
+10/11/2024 10:40,26,Female,IT,1,Twitter,Daily,1911,Good
+9/28/2024 19:23,25,Female,EEE,3,Instagram,Often,1855,Poor
+8/22/2024 22:01,27,Female,CSE,4,Twitter,Sometimes,1096,Poor
+12/12/2024 8:24,27,Male,CSE,4,Twitter,Daily,2499,Average
+7/9/2024 16:11,27,Male,IT,1,Facebook,Daily,1551,Average
+3/16/2024 0:57,27,Male,IT,1,Instagram,Never,344,Good
+4/23/2024 10:58,26,Male,CSE,4,Instagram,Daily,1814,Good
+1/29/2024 10:04,27,Male,IT,1,Instagram,Often,2232,Good
+12/4/2024 19:23,27,Female,IT,1,LinkedIn,Often,2342,Average
+7/15/2024 3:00,26,Male,EEE,4,LinkedIn,Sometimes,739,Poor
+1/4/2024 4:04,27,Female,CSE,1,LinkedIn,Rarely,983,Average
+12/8/2024 4:28,25,Male,EEE,3,Facebook,Daily,1980,Good
+11/10/2024 11:24,26,Female,CSE,4,Instagram,Often,1489,Poor
+4/11/2024 1:54,27,Male,IT,4,Facebook,Often,1730,Poor
+7/8/2024 13:14,27,Female,CSE,3,Facebook,Often,739,Poor
+3/2/2024 23:28,26,Male,CSE,2,Twitter,Often,669,Good
+2/4/2024 2:25,27,Male,IT,3,Twitter,Never,1656,Poor
+1/25/2024 15:50,27,Male,IT,1,Instagram,Daily,1047,Good
+7/6/2024 17:13,26,Male,Computer Science,1,Facebook,Often,554,Average
+7/29/2024 11:13,26,Male,Computer Science,3,Twitter,Often,922,Good
+4/14/2024 19:29,26,Female,CSE,3,Instagram,Sometimes,1096,Poor
+6/25/2024 17:25,26,Female,IT,4,Facebook,Never,523,Average
+2/16/2024 21:46,26,Female,IT,1,LinkedIn,Daily,1370,Average
+8/30/2024 6:23,26,Female,Computer Science,2,Twitter,Daily,1374,Poor
+10/22/2024 14:54,27,Female,Computer Science,1,Facebook,Rarely,1486,Average
+5/27/2024 16:21,25,Female,IT,2,Instagram,Never,807,Good
+5/24/2024 10:21,25,Male,IT,3,LinkedIn,Never,1081,Good
+10/12/2024 1:49,26,Female,Computer Science,1,Twitter,Daily,807,Average
+9/26/2024 18:13,25,Male,EEE,1,LinkedIn,Daily,868,Poor
+5/13/2024 21:28,26,Male,EEE,4,Twitter,Never,1525,Poor
+7/8/2024 16:29,25,Male,Computer Science,1,Instagram,Rarely,922,Average
+9/28/2024 9:02,27,Male,CSE,3,Facebook,Never,1691,Average
+5/11/2024 7:45,26,Female,Computer Science,1,Twitter,Never,1972,Good
+2/26/2024 4:50,25,Male,EEE,1,Facebook,Rarely,1656,Average
+12/15/2024 10:07,25,Male,IT,3,Twitter,Never,536,Average
+6/13/2024 20:43,25,Female,CSE,1,Twitter,Often,1564,Good
+3/5/2024 3:07,27,Male,CSE,3,LinkedIn,Rarely,1972,Average
+8/11/2024 16:31,26,Female,Computer Science,1,Instagram,Never,2447,Average
+12/1/2024 4:30,26,Female,CSE,1,Instagram,Sometimes,698,Good
+8/13/2024 13:21,25,Female,IT,4,LinkedIn,Rarely,739,Poor
+9/1/2024 5:14,27,Female,EEE,3,Facebook,Daily,1370,Average
+3/4/2024 16:28,26,Female,Computer Science,3,Twitter,Sometimes,536,Good
+10/22/2024 15:02,26,Female,CSE,4,LinkedIn,Sometimes,1972,Average
+5/11/2024 22:14,25,Male,CSE,1,Instagram,Daily,1325,Good
+11/26/2024 1:34,25,Male,IT,3,LinkedIn,Never,1341,Average
+2/22/2024 16:53,26,Female,EEE,4,Instagram,Daily,1434,Good
+4/3/2024 23:38,26,Female,Computer Science,3,Facebook,Rarely,853,Good
+2/15/2024 17:20,26,Female,CSE,4,Instagram,Daily,977,Poor
+1/18/2024 21:58,26,Female,IT,3,LinkedIn,Rarely,1551,Poor
+2/6/2024 14:04,26,Female,CSE,2,Instagram,Never,523,Good
+12/7/2024 9:39,26,Male,IT,3,Instagram,Rarely,1729,Good
+6/19/2024 19:40,26,Female,IT,4,Twitter,Never,2110,Average
+11/26/2024 6:57,26,Female,CSE,3,Facebook,Often,1814,Poor
+7/12/2024 1:46,25,Male,Computer Science,3,Twitter,Daily,350,Average
+5/12/2024 6:57,26,Male,EEE,4,Twitter,Often,2014,Poor
+10/12/2024 5:10,25,Female,EEE,1,Facebook,Rarely,1844,Average
+5/22/2024 14:37,27,Female,IT,1,Facebook,Often,554,Good
+7/20/2024 5:07,25,Female,CSE,4,Facebook,Often,2482,Poor
+12/6/2024 18:45,26,Female,EEE,4,Facebook,Sometimes,687,Poor
+9/25/2024 17:58,26,Male,Computer Science,3,Twitter,Rarely,1769,Good
+12/8/2024 14:13,27,Male,CSE,1,Facebook,Sometimes,977,Good
+12/10/2024 19:56,27,Male,Computer Science,2,Instagram,Daily,466,Good
+6/21/2024 8:48,25,Male,CSE,1,Twitter,Sometimes,1846,Poor
+4/9/2024 7:55,25,Female,CSE,2,Instagram,Never,2430,Average
+2/1/2024 2:28,25,Male,EEE,4,Instagram,Never,927,Average
+6/14/2024 15:54,26,Male,EEE,3,Facebook,Often,2014,Good
+2/8/2024 10:15,27,Male,EEE,3,Facebook,Daily,1844,Average
+12/17/2024 20:30,25,Female,CSE,3,Twitter,Often,694,Poor
+1/18/2024 7:10,25,Female,CSE,2,Facebook,Often,1156,Poor
+2/22/2024 9:06,26,Female,Computer Science,1,Twitter,Sometimes,1486,Good
+11/18/2024 22:28,25,Male,EEE,4,LinkedIn,Rarely,1730,Average
+1/4/2024 4:43,26,Female,Computer Science,2,Instagram,Rarely,1752,Average
+7/8/2024 8:45,27,Female,Computer Science,3,LinkedIn,Sometimes,1325,Average
+6/28/2024 14:48,27,Male,IT,1,Twitter,Often,591,Average
+10/15/2024 5:54,26,Male,IT,1,Twitter,Daily,2430,Average
+12/7/2024 8:43,25,Male,Computer Science,2,LinkedIn,Often,1979,Average
+9/21/2024 17:04,26,Male,EEE,1,Instagram,Daily,1579,Poor
+11/10/2024 15:36,26,Female,IT,1,Twitter,Never,1362,Good
+6/6/2024 0:17,26,Female,IT,1,LinkedIn,Never,344,Poor
+4/6/2024 14:20,27,Male,CSE,1,Instagram,Never,1044,Poor
+1/27/2024 18:57,27,Female,Computer Science,4,Facebook,Often,531,Average
+4/26/2024 3:08,26,Female,CSE,3,Instagram,Daily,694,Good
+9/23/2024 19:15,27,Male,IT,1,Facebook,Never,1857,Poor
+,26,Male,IT,5,Facebook,Often,1067,Average
+,25,Male,Textile Engineering,7,Facebook,Rarely,1245,Average
+,25,Male,CSE,2,Instagram,Rarely,875,Good
+,31,Male,Mechanical,4,Facebook,Often,1500,Average
+,25,Female,Physics,2,Facebook,Daily,712,Good
+,25,Female,IT,4,Facebook,Often,612,Good
+,25,Female,IT,4,Facebook,Often,612,Good
+,25,Female,IT,1,Facebook,Rarely,517,Good
+,26,Male,Textile,2,Instagram,Never,95,Average
+,25,Female,IT,0.5,Facebook,Never,157,Good
+,27,Male,Textile,5,Facebook,Daily,789,Average
+,27,Male,Mechanical,2,Facebook,Rarely,356,Good
+,35,Male,Business,2,Facebook,Rarely,756,Poor
+,27,Male,Textile,7,Facebook,Daily,3051,Good
+,26,Male,Textile,3,Facebook,Rarely,757,Average
+,26,Female,EEE,3,Facebook,Rarely,367,Average
+,27,Male,Textile,5,Instagram,Rarely,1465,Good
+,36,Male,Business,2,Facebook,Rarely,1227,Good
+,25,Female,IT,3,Facebook,Rarely,700,Good
+,26,Male,IT,3,Facebook,Sometimes,957,Average
+,40,Male,CSE,4,Facebook,Rarely,1351,Average
+,27,Female,IT,4,Facebook,Sometimes,421,Good
+,27,Female,IT,3,Facebook,Often,821,Good
+,26,Male,Textile,4,Facebook,Rarely,1542,Good
+12/14/2024 9:17:24,22,Male,Computer Science,8,Facebook,Never,"1,500",Average
+12/14/2024 9:22:08,23,Female,Computer Science,4,Facebook,Sometimes,850,Average
+12/14/2024 9:23:06,23,Male,Computer Science,4,Facebook,Never,"1,000",Good
+12/14/2024 9:48:30,20,Male,Computer Science,1,Facebook,Daily,341,Good
+12/14/2024 9:55:44,23,Female,Computer Science,4,Facebook,Often,"1,500",Good
+12/14/2024 10:03:33,25,Male,Finance,7,Facebook,Sometimes,"1,100",Good
+12/14/2024 10:03:47,20,Male,Computer Science,3,Facebook,Rarely,152,Poor
+12/14/2024 10:04:26,20,Male,Computer Science,3,Facebook,Sometimes,10,Average
+12/14/2024 10:18:23,25,Male,Mechanical,4,Facebook,Rarely,700,Average
+12/14/2024 10:20:05,20,Male,Computer Science,3,Facebook,Never,198,Good
+12/14/2024 10:37:05,24,Female,Management,8,Facebook,Sometimes,289,Poor
+12/15/2024 12:00:32,25,Male,Computer Science,6,Facebook,Sometimes,350,Good
+12/15/2024 10:29:27,28,Male,Computer Science,2,Facebook,Rarely,650,Good
+12/15/2024 10:39:12,28,Male,Computer Science,6,Facebook,Daily,"1,200",Average
+12/15/2024 10:41:07,26,Male,Computer Science,3,Facebook,Rarely,900,Average
+12/15/2024 10:48:20,28,Female,Computer Science,4,Facebook,Often,380,Average
+12/15/2024 2:53:18,23,Male,Computer Science,4,Facebook,Sometimes,"3,000",Average
+12/15/2024 3:54:43,22,Male,Computer Science,2,Facebook,Rarely,150,Good
+12/15/2024 4:23:03,24,Male,Computer Science,2,Facebook,Often,200,Average
+12/15/2024 4:55:18,23,Male,Computer Science,1,Facebook,Rarely,217,Average
+12/15/2024 5:25:25,23,Male,Computer Science,5,Youtube,Rarely,,Average
+12/15/2024 7:08:41,26,Male,Computer Science,6,Facebook,Sometimes,500,Average
+12/15/2024 7:11:04,24,Male,Computer Science,4,Facebook,Rarely,10,Good
+12/15/2024 7:19:05,24,Male,Computer Science,3,Facebook,Sometimes,20,Good
+12/15/2024 8:08:40,21,Male,Computer Science,4,LinkedIn,Sometimes,"3,300",Average
+12/15/2024 8:58:06,27,Male,Computer Science,4,Facebook,Daily,"2,200",Average
+12/16/2024 11:32:06,28,Female,MBBS,3,Facebook,Sometimes,"1,500",Good
+12/16/2024 12:59:38,23,Male,Computer Science,5,Facebook,Rarely,250,Good
+12/16/2024 11:54:42,23,Female,Computer Science,4,Facebook,Sometimes,269,Average
+12/15/2024 13:22:32,26,Female,Physics ,3,Twitter,Sometimes,112,Good
+12/15/2024 18:48:43,27,Male,Social Work ,2,Facebook,Sometimes,500,Good
+12/22/2024 22:12:23,26,Female,Nuclear Engineering ,2,Instagram,Rarely,50,Good
+12/22/2024 22:39:58,26,Female,Chemistry ,5,Facebook,Often,4,Poor
+12/16/2024 18:45:07,24,Female,Biology,5,Instagram,Often,250,Good
+12/16/2024 18:46:34,25,Female,Bio-chemistry,6,Instagram,Often,400,Good
+12/16/2024 18:53:12,23,Female,Social Work ,6,Facebook,Often,452,Average
+12/16/2024 18:55:49,26,Male,CSE,4,Facebook,Never,100,Average
+12/16/2024 18:59:21,25,Male,Computer Science,1,LinkedIn,Sometimes,1200+,Good
+12/16/2024 19:15:36,26,Male,Computer Science,2,Instagram,Sometimes,15,Poor
+12/16/2024 19:48:30,24,Male,Computer Science,4,Facebook,Rarely,50,Average
+12/16/2024 20:03:06,23,Female,IT,2,Facebook,Always,700,Good
+12/16/2024 20:09:00,25,Male,CSE,1.5,Facebook,Sometimes,300,Poor
+12/16/2024 20:09:27,26,Male,Computer Science,3,Facebook,Rarely,40,Average
+12/16/2024 20:23:50,24,Female,Computer Science,2,Instagram,Always,2000,Good
+12/16/2024 20:25:14,25,Male,IT,3,Twitter,Rarely,600,Average
+12/16/2024 20:39:15,27,Male,CSE,2.5,Facebook,Rarely,1200,Average
+12/16/2024 20:39:33,25,Male,Computer Science,3,Facebook,Sometimes,800,Good
+12/16/2024 20:39:32,24,Male,EEE,4,LinkedIn,Rarely,1900,Good
+12/16/2024 20:43:23,25,Male,Computer Science,1,LinkedIn,Sometimes,1200,Good
+12/16/2024 20:44:22,26,Male,IT,3.2,Instagram,Never,1026,Average
+12/16/2024 20:47:31,21,Male,Computer Science & Engineering,3.3,Instagram,Rarely,248,Poor
+12/16/2024 20:50:59,20,Female,IT,2.4,Twitter,Sometimes,376,Poor
+12/16/2024 20:52:26,20,Male,Computer Science & Engineering,3.7,Twitter,Rarely,195,Good
+12/16/2024 20:53:16,26,Male,Computer Science,2.6,Facebook,Never,1241,Average
+12/16/2024 20:53:41,27,Female,Computer Science,2.6,Instagram,Never,418,Good
+12/16/2024 20:53:53,20,Female,Computer Science,3.6,LinkedIn,Rarely,312,Poor
+12/16/2024 20:54:01,30,Male,Computer Science,1.8,Facebook,Rarely,338,Poor
+12/16/2024 20:54:03,21,Male,Computer Science & Engineering,2.6,Facebook,Rarely,156,Good
+12/16/2024 20:54:15,27,Female,Computer Science & Engineering,1.9,Facebook,Rarely,574,Good
+12/16/2024 20:55:28,24,Female,Computer Science,1.3,LinkedIn,Rarely,703,Average
+12/16/2024 20:55:41,29,Female,CSE,2.8,Facebook,Sometimes,1062,Good
+12/16/2024 20:55:46,21,Male,IT,3.6,Instagram,Never,147,Average
+12/16/2024 20:59:44,28,Female,Computer Science,4,LinkedIn,Rarely,424,Good
+12/16/2024 20:59:54,23,Male,Computer Science,2.5,Twitter,Never,637,Good
+12/16/2024 21:00:18,29,Female,CSE,3.9,Twitter,Rarely,1202,Average
+12/16/2024 21:00:53,27,Female,EEE,2.2,Facebook,Sometimes,390,Average
+12/16/2024 21:00:57,27,Male,CSE,3.5,Instagram,Never,448,Good
+12/16/2024 21:01:51,27,Male,CSE,2.2,LinkedIn,Sometimes,1068,Poor
+12/16/2024 21:02:02,24,Male,Computer Science,1.3,Facebook,Rarely,662,Good
+12/16/2024 21:02:27,22,Male,IT,2.2,Facebook,Sometimes,271,Poor
+12/16/2024 21:02:30,28,Male,EEE,3.1,Twitter,Sometimes,1122,Good
+12/16/2024 21:03:19,27,Female,Computer Science,2.6,Facebook,Sometimes,1045,Average
+12/16/2024 21:08:19,27,Male,CSE,3.9,Twitter,Sometimes,1344,Average
+12/16/2024 21:11:15,27,Female,Computer Science,2.4,Twitter,Never,399,Poor
+12/16/2024 21:11:17,20,Female,Computer Science,2.2,Twitter,Sometimes,431,Average
+12/16/2024 21:12:32,30,Female,Computer Science & Engineering,3.6,Twitter,Never,1396,Poor
+12/16/2024 21:19:21,21,Female,Computer Science & Engineering,1.7,LinkedIn,Rarely,84,Average
+12/16/2024 21:20:26,25,Female,Computer Science & Engineering,3.7,Twitter,Never,234,Average
+12/16/2024 21:23:36,21,Female,Computer Science,2.3,Facebook,Rarely,504,Average
+12/16/2024 21:26:43,25,Female,Computer Science,2.5,Facebook,Never,920,Poor
+12/16/2024 21:38:33,29,Male,CSE,2.8,Instagram,Sometimes,293,Average
+12/16/2024 21:39:21,24,Female,Computer Science,1.3,LinkedIn,Rarely,84,Good
+12/16/2024 21:39:41,22,Male,EEE,1.7,Instagram,Rarely,416,Poor
+12/16/2024 21:39:42,26,Female,Computer Science & Engineering,3.6,Instagram,Rarely,829,Poor
+12/16/2024 21:40:58,25,Female,EEE,2,Twitter,Never,128,Poor
+12/16/2024 21:42:08,29,Female,CSE,2.4,LinkedIn,Rarely,1037,Good
+12/16/2024 21:44:30,22,Male,Computer Science,3.5,Facebook,Rarely,543,Poor
+12/16/2024 21:44:34,24,Male,Computer Science & Engineering,2.4,Instagram,Never,1431,Poor
+12/16/2024 21:46:21,22,Female,Computer Science & Engineering,1.6,LinkedIn,Never,286,Poor
+12/16/2024 21:46:30,24,Male,Computer Science,1.2,Facebook,Sometimes,674,Good
+12/16/2024 21:48:19,21,Female,Computer Science & Engineering,2.1,Instagram,Never,892,Poor
+12/16/2024 21:55:11,22,Female,IT,1.8,Instagram,Sometimes,66,Average
+12/16/2024 21:55:33,29,Female,EEE,3.3,Facebook,Rarely,133,Good
+12/16/2024 21:56:10,21,Male,IT,1.9,Facebook,Never,467,Poor
+12/16/2024 21:56:23,29,Female,EEE,2,Instagram,Rarely,1089,Good
+12/16/2024 22:04:13,29,Female,Computer Science,3.1,Twitter,Never,976,Good
+12/16/2024 22:05:57,28,Female,CSE,1.2,Facebook,Sometimes,438,Good
+12/16/2024 22:06:55,20,Female,CSE,1.1,LinkedIn,Rarely,1353,Poor
+12/16/2024 22:06:55,26,Female,EEE,3.9,Facebook,Rarely,533,Good
+12/16/2024 22:07:48,24,Male,Computer Science,1,LinkedIn,Rarely,196,Poor
+12/16/2024 22:07:52,22,Female,Computer Science & Engineering,1.4,Facebook,Never,252,Average
+12/16/2024 22:09:43,26,Female,Computer Science & Engineering,2.7,LinkedIn,Rarely,1297,Average
+12/16/2024 22:09:59,20,Female,Computer Science & Engineering,2.4,Instagram,Sometimes,1116,Average
+12/16/2024 22:11:21,22,Male,EEE,3.7,Twitter,Sometimes,1201,Average
+12/16/2024 22:12:13,30,Male,Computer Science,3.7,Facebook,Never,1020,Good
+12/16/2024 22:12:13,30,Female,EEE,3.8,LinkedIn,Never,231,Average
+12/16/2024 22:14:02,20,Female,IT,3.9,Twitter,Never,357,Poor
+12/16/2024 22:14:20,21,Female,Computer Science,3.1,Twitter,Sometimes,48,Poor
+12/16/2024 22:14:25,25,Female,Computer Science,2.4,Twitter,Rarely,1164,Good
+12/16/2024 22:17:02,26,Male,Computer Science & Engineering,1.5,LinkedIn,Sometimes,569,Poor
+12/16/2024 22:17:27,29,Female,EEE,1.4,LinkedIn,Rarely,1275,Average
+12/16/2024 22:20:20,27,Male,Computer Science,3.4,Instagram,Never,136,Poor
+12/16/2024 22:20:22,28,Male,Computer Science,1.3,Instagram,Never,651,Average
+12/16/2024 22:20:28,24,Male,Computer Science & Engineering,3.6,Instagram,Never,628,Good
+12/16/2024 22:20:31,27,Male,EEE,2.4,Twitter,Rarely,81,Good
+12/16/2024 22:21:26,23,Female,Computer Science & Engineering,2.3,LinkedIn,Rarely,776,Good
+12/16/2024 22:23:01,21,Female,Computer Science,1.1,Facebook,Sometimes,1426,Poor
+12/16/2024 22:25:01,21,Female,Computer Science,2.8,LinkedIn,Sometimes,1228,Good
+12/16/2024 22:30:09,23,Female,Computer Science,1.2,LinkedIn,Sometimes,967,Poor
+12/16/2024 22:34:38,24,Male,IT,3.5,Instagram,Sometimes,626,Good
+12/16/2024 22:36:37,24,Female,CSE,2.5,Instagram,Never,886,Good
+12/16/2024 22:37:41,30,Male,Computer Science,3.5,Twitter,Rarely,1426,Average
+12/16/2024 22:43:52,30,Male,EEE,3,LinkedIn,Rarely,246,Average
+12/16/2024 22:45:02,26,Male,Computer Science,3.3,Instagram,Rarely,56,Poor
+12/16/2024 22:45:24,26,Female,Computer Science,2.4,Instagram,Never,963,Average
+12/16/2024 22:46:21,25,Female,Computer Science,1.1,Twitter,Rarely,416,Good
+12/16/2024 22:49:16,28,Male,Computer Science,2.7,Facebook,Sometimes,638,Average
+12/16/2024 22:49:43,26,Female,IT,3.5,LinkedIn,Sometimes,1027,Poor
+12/16/2024 22:50:35,25,Male,Computer Science & Engineering,1.8,Facebook,Never,1244,Poor
+12/16/2024 22:50:44,26,Female,Computer Science,3.7,Facebook,Rarely,288,Good
+12/16/2024 22:53:03,27,Male,CSE,2.5,Instagram,Rarely,1191,Poor
+12/16/2024 22:53:26,28,Male,Computer Science,2,Instagram,Sometimes,859,Good
+12/16/2024 22:54:34,22,Male,EEE,2.9,Instagram,Rarely,1102,Good
+12/16/2024 22:56:14,28,Male,EEE,3.5,Twitter,Sometimes,340,Good
+12/16/2024 22:59:19,29,Female,CSE,1.2,LinkedIn,Rarely,246,Average
+12/16/2024 23:04:00,27,Male,Computer Science,2.6,Instagram,Rarely,90,Average
+12/16/2024 23:05:46,27,Male,Computer Science,2.7,Instagram,Sometimes,1160,Poor
+12/16/2024 23:09:10,28,Male,Computer Science,1.6,LinkedIn,Never,1167,Good
+12/16/2024 23:10:32,20,Male,IT,2.7,Instagram,Sometimes,1408,Good
+12/16/2024 23:13:22,24,Female,Computer Science,3.2,LinkedIn,Rarely,1305,Good
+12/16/2024 23:13:23,28,Male,EEE,2,Twitter,Sometimes,952,Average
+12/16/2024 23:17:48,28,Male,EEE,1.7,Twitter,Never,618,Good
+12/16/2024 23:18:33,20,Male,EEE,3.5,LinkedIn,Never,781,Average
+12/16/2024 23:19:09,21,Male,Computer Science,3,Instagram,Never,843,Average
+12/16/2024 23:20:01,27,Female,Computer Science,2.2,Facebook,Sometimes,60,Average
+12/16/2024 23:22:19,30,Male,IT,3.8,Twitter,Rarely,463,Poor
+12/16/2024 23:22:20,21,Female,CSE,1.2,Instagram,Never,895,Good
+12/16/2024 23:25:22,26,Male,Computer Science & Engineering,2.2,Facebook,Rarely,1428,Good
+12/16/2024 23:31:39,21,Female,IT,3.3,LinkedIn,Sometimes,985,Good
+12/16/2024 23:40:13,26,Male,IT,2,Facebook,Rarely,10,Average
+12/16/2024 23:43:17,26,Male,Business,10,Facebook,Sometimes,1000,Good
+12/16/2024 23:45:41,32,Male,Engineering ,4,Facebook,Sometimes,10,Average
+12/17/2024 0:07:56,26,Female,Information Technology ,4,Facebook,Sometimes,800,Good
+12/17/2024 0:12:24,25,Male,Psychology,0.9,TikTok,Rarely,438,Good
+12/17/2024 0:15:29,23,Male,IT,6.3,Twitter,Rarely,0,Good
+12/17/2024 1:23:13,21,Male,Biology,3.7,LinkedIn,Rarely,901,Average
+12/17/2024 1:47:29,22,Male,Psychology,6.7,LinkedIn,Never,760,Poor
+12/17/2024 2:05:33,18,Female,IT,5.2,Snapchat,Sometimes,390,Average
+12/17/2024 2:50:47,26,Female,IT,1.1,Snapchat,Rarely,965,Good
+12/17/2024 5:35:55,20,Male,CSE,3.2,Instagram,Rarely,1386,Average
+12/17/2024 6:25:55,20,Male,Business,7.3,Facebook,Sometimes,1329,Average
+12/17/2024 6:28:08,18,Female,IT,2.1,LinkedIn,Rarely,597,Good
+12/17/2024 6:50:59,22,Male,Biology,3,Instagram,Rarely,411,Good
+12/17/2024 8:40:03,20,Male,Mechanical,6.4,LinkedIn,Sometimes,1213,Poor
+12/17/2024 9:47:22,26,Male,Computer Science,3.3,Twitter,Sometimes,530,Poor
+12/17/2024 10:30:25,19,Male,Psychology,2.2,Instagram,Never,626,Average
+12/17/2024 12:21:00,19,Male,Business,6.4,Facebook,Sometimes,586,Average
+12/17/2024 12:56:22,19,Male,Computer Science,2.7,Twitter,Rarely,53,Average
+12/17/2024 13:06:59,19,Female,Computer Science,0,Twitter,Never,1102,Good
+,18,Female,Psychology,7.8,TikTok,Often,569,Average
+,25,Female,IT,0.9,Snapchat,Sometimes,568,Good
+,18,Female,Biology,4.6,Snapchat,Rarely,507,Poor
+,19,Female,Psychology,0.8,Snapchat,Rarely,768,Good
+,20,Female,CSE,0,LinkedIn,Never,697,Poor
+,22,Female,Computer Science,3.2,Instagram,Rarely,710,Good
+,22,Male,IT,0.4,Instagram,Sometimes,440,Good
+,20,Male,EEE,2.6,LinkedIn,Sometimes,841,Good
+,26,Female,Psychology,7.2,Facebook,Rarely,393,Poor
+,22,Female,Biology,6,Instagram,Often,369,Poor
+,18,Male,Mechanical,2.8,Snapchat,Rarely,857,Average
+,25,Female,CSE,2.8,Facebook,Rarely,541,Good
+,21,Female,Business,6.6,TikTok,Sometimes,664,Poor
+,25,Male,IT,7.8,Facebook,Rarely,1307,Poor
+,23,Male,Mechanical,5.4,Snapchat,Often,448,Average
+,23,Male,CSE,2.9,Facebook,Rarely,1115,Good
+,21,Male,IT,4.1,Instagram,Never,1444,Average
+,20,Male,Biology,0.7,Twitter,Rarely,916,Good
+,22,Male,Business,0.7,Twitter,Rarely,467,Average
+,26,Male,CSE,0.5,Twitter,Rarely,0,Average
+,20,Female,Mechanical,6,Snapchat,Never,1474,Average
+,24,Female,Psychology,6.2,Facebook,Rarely,1035,Poor
+,24,Male,IT,0.2,LinkedIn,Rarely,714,Good
+,26,Female,Business,7.4,Snapchat,Rarely,1419,Poor
+,21,Male,Biology,5.5,Facebook,Rarely,649,Average
+,22,Female,CSE,0.6,LinkedIn,Sometimes,292,Good
+,21,Female,Business,4.4,LinkedIn,Rarely,855,Average
+,18,Male,Psychology,1.6,Twitter,Rarely,1269,Average
+,23,Female,Psychology,4.2,TikTok,Sometimes,1417,Average
+,24,Female,Business,0,TikTok,Never,1492,Poor
+,18,Male,IT,12,LinkedIn,Daily,1359,Poor
+,23,Female,Business,0,TikTok,Never,972,Poor
+,26,Male,EEE,3.1,TikTok,Rarely,199,Average
+,26,Male,Psychology,2.5,Instagram,Sometimes,1443,Average
+,26,Female,Business,2.3,TikTok,Sometimes,0,Average
+,22,Female,Business,2.8,LinkedIn,Sometimes,604,Good
+,22,Female,EEE,0,Twitter,Never,899,Good
+,26,Male,Biology,3.4,Twitter,Rarely,1174,Poor
+,26,Male,Computer Science,1,LinkedIn,Rarely,1135,Good
+,25,Male,Mechanical,5.7,Twitter,Sometimes,1295,Poor
+,20,Male,Business,4.4,Instagram,Rarely,500,Poor
+,24,Female,Computer Science,3.2,Twitter,Rarely,651,Average
+,19,Male,CSE,0.3,Twitter,Sometimes,160,Good
+,18,Male,EEE,0.1,Snapchat,Rarely,1309,Good
+,26,Female,CSE,2.2,Snapchat,Rarely,918,Good
+,26,Female,Psychology,3.3,Snapchat,Never,1003,Good
+,22,Male,Business,4.8,Snapchat,Rarely,232,Average
+,25,Male,Biology,6.2,TikTok,Rarely,1017,Poor
+,23,Male,CSE,7.8,Snapchat,Rarely,760,Average
+,21,Male,IT,1.4,Twitter,Rarely,82,Average
+,20,Female,Business,1.3,TikTok,Rarely,963,Good
+,25,Male,IT,0.2,Snapchat,Often,622,Good
+,22,Male,EEE,6.7,TikTok,Rarely,1437,Average
+,21,Male,Psychology,4.5,Instagram,Rarely,820,Poor
+,22,Male,Biology,0.4,Facebook,Rarely,356,Good
+,23,Female,Business,7.5,Facebook,Often,428,Average
+,25,Female,EEE,0.7,Instagram,Often,696,Good
+,21,Female,Psychology,1.9,Instagram,Rarely,1100,Good
+,21,Female,Mechanical,2.4,Snapchat,Rarely,1265,Good
+,23,Female,EEE,2.7,Instagram,Rarely,918,Average
+,18,Female,Mechanical,3.4,Facebook,Often,651,Poor
+,23,Male,Mechanical,5.3,Twitter,Rarely,1157,Good
+,21,Female,EEE,4.5,Instagram,Sometimes,113,Average
+,24,Male,CSE,3.2,Twitter,Sometimes,1409,Average
+,20,Female,Computer Science,5.1,Instagram,Never,1498,Average
+,25,Female,EEE,1,Facebook,Rarely,1358,Good
+,25,Male,Biology,0.7,Snapchat,Sometimes,1226,Good
+,23,Female,Business,2.6,Twitter,Rarely,1002,Good
+,23,Male,CSE,0.8,Instagram,Sometimes,357,Average
+,26,Male,IT,2.1,Instagram,Never,961,Average
+,24,Female,Computer Science,2.8,LinkedIn,Rarely,1377,Good
+,24,Female,EEE,4.5,Snapchat,Rarely,374,Average
+,25,Female,EEE,0.7,Twitter,Rarely,1301,Average
+,26,Female,Psychology,2.5,Instagram,Never,217,Good
+,24,Male,EEE,1.8,Instagram,Rarely,248,Good
+,26,Male,CSE,0.2,TikTok,Never,432,Good
+,19,Female,Biology,1.7,TikTok,Rarely,786,Good
+,26,Female,IT,5.3,Facebook,Rarely,405,Average
+,24,Female,Business,4.1,Twitter,Sometimes,126,Average
+,23,Female,Business,0,Snapchat,Never,8690,Good
+,20,Female,Biology,6.8,Instagram,Rarely,82,Average
+,23,Female,EEE,4.4,Snapchat,Sometimes,1028,Average
+,21,Female,Computer Science,2.7,Facebook,Often,1421,Average
+,24,Female,Agriculture ,0.3,Facebook,Sometimes,1057,Good
+12/16/2024 18:45:07,21,Male,Bss,1,Facebook,Sometimes,280,Average
+12/16/2024 18:46:34,25,Male,CSE,0.5,Facebook,Rarely,1200,Average
+12/16/2024 18:53:12,25,Male,BBA,2,Facebook,Rarely,50,Good
+12/16/2024 18:55:49,25,Male,EEE,0.2,Facebook,Rarely,1500,Average
+12/16/2024 18:59:21,20,Female,Arts,10,Facebook,Daily,1200,Poor
+12/16/2024 19:15:36,25,Female,CSE,5,Facebook,Rarely,1000,Average
+12/16/2024 19:48:30,26,Male,Dyes and Chemical Engineering ,10,Facebook,Sometimes,2000,Average
+12/16/2024 20:03:06,25,Male,Education ,1,Facebook,Rarely,750,Average
+12/16/2024 20:09:00,26,Male,Education ,1,Facebook,Never,100,Average
+12/16/2024 20:09:27,24,Male,BA,7,Facebook,Never,175,Average
+12/16/2024 20:23:50,21,Male,CSE,2,Facebook,Sometimes,1000,Average
+12/16/2024 20:25:14,23,Male,CSE,2,Facebook,Rarely,1000,Good
+12/16/2024 20:39:15,22,Male,CSE,0.5,Facebook,Sometimes,1700,Average
+12/16/2024 20:39:33,22,Male,CSE,0.5,Facebook,Rarely,450,Average
+12/16/2024 20:39:32,27,Male,CSE,0.3,Facebook,Sometimes,20,Average
+12/16/2024 20:43:23,22,Male,CSE,3.5,Facebook,Sometimes,250,Average
+12/16/2024 20:44:22,19,Male,CSE,0.5,Facebook,Sometimes,300,Good
+12/16/2024 20:47:31,21,Male,CSE,0.67,Facebook,Rarely,650,Average
+12/16/2024 20:50:59,22,Male,CSE,1,Facebook,Sometimes,1000,Average
+12/16/2024 20:52:26,23,Male,CSE,0.33,Facebook,Often,1500,Poor
+12/16/2024 20:53:16,22,Male,CSE,0.5,Facebook,Rarely,800,Average
+12/16/2024 20:53:41,22,Male,CSE,0.67,Facebook,Often,800,Average
+12/16/2024 20:53:53,21,Male,CSE,0.5,WhatsApp ,Often,1000,Average
+12/16/2024 20:54:01,22,Male,CSE,0.5,Facebook,Often,800,Average
+12/16/2024 20:54:03,22,Male,CSE,1.5,Facebook,Sometimes,850,Average
+12/16/2024 20:54:15,23,Male,CSE,0.4,Facebook,Sometimes,800,Poor
+12/16/2024 20:55:28,21,Female,CSE,0.5,Facebook,Often,500,Average
+12/16/2024 20:55:41,23,Male,CSE,1,Facebook,Sometimes,450,Good
+12/16/2024 20:55:46,23,Male,CSE,1,Facebook,Rarely,650,Good
+12/16/2024 20:59:44,21,Female,CSE,3,Facebook,Often,300,Average
+12/16/2024 20:59:54,23,Male,CSE,2,Facebook,Daily,1000,Good
+12/16/2024 21:00:18,24,Male,CSE,0.5,Facebook,Rarely,500,Average
+12/16/2024 21:00:53,21,Male,CSE,1,Facebook,Rarely,150,Poor
+12/16/2024 21:00:57,23,Female,CSE,3,Facebook,Sometimes,600,Average
+12/16/2024 21:01:51,22,Female,CSE,2,Youtube,Rarely,1200,Average
+12/16/2024 21:02:02,23,Male,CSE,1,X/Twitter,Often,100,Average
+12/16/2024 21:02:27,23,Male,CSE,3,Facebook,Sometimes,5000,Poor
+12/16/2024 21:02:30,22,Male,CSE,0.5,Facebook,Rarely,50,Poor
+12/16/2024 21:03:19,22,Male,CSE,1,Facebook,Sometimes,2500,Poor
+12/16/2024 21:08:19,22,Male,CSE,3,Facebook,Sometimes,800,Poor
+12/16/2024 21:11:15,22,Male,CSE,0.5,Facebook,Rarely,500,Average
+12/16/2024 21:11:17,23,Male,CSE,0.5,Facebook,Sometimes,700,Poor
+12/16/2024 21:12:32,26,Male,CSE,1.5,Facebook,Rarely,2000,Average
+12/16/2024 21:19:21,20,Female,CSE,0.5,Facebook,Rarely,120,Average
+12/16/2024 21:20:26,23,Male,CSE,10,Facebook,Rarely,1000,Poor
+12/16/2024 21:23:36,21,Female,CSE,1,Facebook,Sometimes,200,Good
+12/16/2024 21:26:43,24,Male,CSE,0.5,Facebook,Rarely,1000,Average
+12/16/2024 21:38:33,24,Male,CSE,1,Facebook,Never,700,Average
+12/16/2024 21:39:21,24,Male,CSE,2.5,Facebook,Sometimes,1400,Average
+12/16/2024 21:39:41,23,Male,CSE,2,Facebook,Sometimes,600,Average
+12/16/2024 21:39:42,23,Male,CSE,0.5,Facebook,Rarely,1400,Good
+12/16/2024 21:40:58,25,Male,CSE,7,Facebook,Often,1000,Average
+12/16/2024 21:42:08,22,Female,CSE,1,Facebook,Rarely,200,Average
+12/16/2024 21:44:30,22,Male,CSE,0.5,Facebook,Sometimes,1000,Average
+12/16/2024 21:44:34,22,Male,CSE,1,Facebook,Often,1200,Average
+12/16/2024 21:46:21,23,Male,CSE,0.5,Facebook,Rarely,1700,Average
+12/16/2024 21:46:30,25,Female,CSE,5,Facebook,Sometimes,55,Poor
+12/16/2024 21:48:19,24,Male,CE,3,Facebook,Sometimes,1000,Average
+12/16/2024 21:55:11,21,Male,CE,4.5,Facebook,Sometimes,300,Average
+12/16/2024 21:55:33,24,Male,CSE,1,Facebook,Rarely,275,Average
+12/16/2024 21:56:10,23,Male,CSE,1,Facebook,Rarely,40,Average
+12/16/2024 21:56:23,24,Male,CSE,1,Facebook,Sometimes,600,Average
+12/16/2024 22:04:13,22,Male,CE,10,Facebook,Sometimes,2000,Good
+12/16/2024 22:05:57,21,Female,Other,7.5,Instagram,Rarely,40,Average
+12/16/2024 22:06:55,25,Female,CE,0.25,Facebook,Rarely,400,Average
+12/16/2024 22:06:55,20,Female,Ag,2,Instagram,Rarely,60,Poor
+12/16/2024 22:07:48,20,Male,CSE,1,Facebook,Sometimes,1200,Poor
+12/16/2024 22:07:52,19,Female,BBA,1,Facebook,Rarely,180,Good
+12/16/2024 22:09:43,21,Male,CE,3,Facebook,Sometimes,960,Average
+12/16/2024 22:09:59,21,Male,CSE,0.5,Facebook,Sometimes,100,Average
+12/16/2024 22:11:21,24,Male,CSE,2,Facebook,Sometimes,3600,Average
+12/16/2024 22:12:13,21,Male,BSAg,0.2,Facebook,Often,330,Average
+12/16/2024 22:12:13,21,Male,CE,0,Facebook,Rarely,4000,Average
+12/16/2024 22:14:02,21,Male,Agriculture ,8,Facebook,Daily,18,Good
+12/16/2024 22:14:20,25,Male,CSE,0.5,Facebook,Sometimes,4000,Average
+12/16/2024 22:14:25,22,Female,CSE,3.5,Facebook,Often,500,Good
+12/16/2024 22:17:02,24,Male,CSE,0.25,Facebook,Rarely,700,Average
+12/16/2024 22:17:27,26,Male,CSE,1,Facebook,Sometimes,1000,Average
+12/16/2024 22:20:20,25,Male,CSE,0.5,Facebook,Sometimes,3300,Average
+12/16/2024 22:20:22,26,Male,CSE,0.5,Whatsapp,Rarely,600,Good
+12/16/2024 22:20:28,21,Female,BSAg,3,Facebook,Sometimes,340,Good
+12/16/2024 22:20:31,25,Female,CE,0.3,Facebook,Sometimes,142,Average
+12/16/2024 22:21:26,27,Male,CSE,0.7,X/Twitter,Rarely,1000,Average
+12/16/2024 22:23:01,20,Male,CE,1,Facebook,Sometimes,2000,Good
+12/16/2024 22:25:01,21,Female,Bsag,1,Facebook,Daily,950,Good
+12/16/2024 22:30:09,19,Female,BBA,5,Facebook,Often,500,Average
+12/16/2024 22:34:38,23,Male,CE,5,Facebook,Sometimes,50,Average
+12/16/2024 22:36:37,26,Male,CSE,1.5,Facebook,Rarely,1000,Average
+12/16/2024 22:37:41,20,Male,CSE,0.5,Facebook,Often,1000,Average
+12/16/2024 22:43:52,21,Male,CSE,0.67,Facebook,Often,600,Poor
+12/16/2024 22:45:02,21,Male,CSE,1,Facebook,Daily,400,Average
+12/16/2024 22:45:24,21,Male,CSE,9,Facebook,Sometimes,500,Average
+12/16/2024 22:46:21,20,Female,CSE,0.5,Instagram,Sometimes,981,Average
+12/16/2024 22:49:16,20,Male,CSE,1,Reddit,Rarely,500,Poor
+12/16/2024 22:49:43,21,Female,Agricultural ,3,Facebook,Rarely,100,Average
+12/16/2024 22:50:35,21,Male,CSE,1,Facebook,Rarely,800,Poor
+12/16/2024 22:50:44,21,Male,CSE,0.5,Facebook,Sometimes,1300,Poor
+12/16/2024 22:53:03,22,Male,CSE,0.5,Facebook,Often,3000,Average
+12/16/2024 22:53:26,21,Male,CSE,6,Facebook,Rarely,250,Poor
+12/16/2024 22:54:34,22,Male,CE,4.5,Facebook,Sometimes,115,Poor
+12/16/2024 22:56:14,23,Male,CSE,0.5,Facebook,Sometimes,1200,Average
+12/16/2024 22:59:19,28,Male,CSE,0,Facebook,Rarely,1500,Poor
+12/16/2024 23:04:00,20,Female,Agriculture,2,Facebook,Sometimes,500,Average
+12/16/2024 23:05:46,22,Female,CSE,7,Facebook,Sometimes,550,Average
+12/16/2024 23:09:10,20,Male,BSAg ,1.3,Facebook,Daily,4400,Average
+12/16/2024 23:10:32,22,Male,CE,1,Facebook,Often,400,Average
+12/16/2024 23:13:22,25,Male,CSE,2,Facebook,Sometimes,50,Average
+12/16/2024 23:13:23,21,Male,BSAg,2,Facebook,Sometimes,200,Average
+12/16/2024 23:17:48,34,Male,EEE,8,Facebook,Rarely,5,Average
+12/16/2024 23:18:33,26,Male,CE,10,Facebook,Rarely,4700,Average
+12/16/2024 23:19:09,19,Female,CSE,1,Facebook,Sometimes,270,Average
+12/16/2024 23:20:01,22,Female,BSAg,4,Facebook,Daily,1500,Average
+12/16/2024 23:22:19,23,Male,CE,13,Facebook,Rarely,400,Average
+12/16/2024 23:22:20,23,Female,BSAg,2,Facebook,Daily,6000,Average
+12/16/2024 23:25:22,19,Male,CSE,0.5,Facebook,Sometimes,430,Poor
+12/16/2024 23:31:39,20,Male,CE,0.667,Facebook,Daily,1000,Average
+12/16/2024 23:40:13,23,Male,CSE,2,Instagram,Sometimes,4000,Good
+12/16/2024 23:43:17,23,Male,CE,0.5,Facebook,Sometimes,2000,Average
+12/16/2024 23:45:41,20,Female,CSE,8,Facebook,Sometimes,250,Average
+12/17/2024 0:07:56,21,Male,CSE,2,Facebook,Sometimes,900,Average
+12/17/2024 0:12:24,25,Male,CSE,0.2,Facebook,Often,1500,Poor
+12/17/2024 0:15:29,22,Male,CSE,0.25,Instagram,Often,345,Average
+12/17/2024 1:23:13,20,Male,CSE,2,YouTube,Sometimes,1400,Average
+12/17/2024 1:47:29,21,Male,CSE,0.5,Facebook,Sometimes,2100,Average
+12/17/2024 2:05:33,21,Male,CE,0.4,Facebook,Sometimes,1200,Average
+12/17/2024 2:50:47,20,Male,CSE,0.5,Facebook,Sometimes,600,Poor
+12/17/2024 5:35:55,21,Male,CSE,0.5,Facebook,Rarely,241,Poor
+12/17/2024 6:25:55,20,Male,CSE,1.2,Facebook,Often,1300,Poor
+12/17/2024 6:28:08,22,Male,CSE,0.5,Facebook,Rarely,1500,Average
+12/13/2024 15:45:00,26,Male,CSE,4,Facebook,Never,100,Average
+12/13/2024 15:57:00,25,Male,Computer Science,1,LinkedIn,Sometimes,1200,Good
+12/13/2024 14:13:00,27,Male,Computer Science,1,LinkedIn,Rarely,428,Poor
+12/13/2024 14:43:00,23,Female,Computer Science,3,Twitter,Sometimes,490,Average
+12/13/2024 14:20:00,21,Male,Computer Science,3,Instagram,Rarely,7,Poor
+12/13/2024 14:35:00,26,Female,Computer Science,2,Facebook,Rarely,590,Good
+12/13/2024 14:35:00,27,Male,EEE,2,Instagram,Rarely,184,Poor
+12/13/2024 15:57,24,Male,Computer Science & Engineering,1,LinkedIn,Rarely,449,Poor
+12/13/2024 14:13,25,Male,CSE,3,LinkedIn,Rarely,623,Good
+12/13/2024 14:20,21,Female,IT,4,Facebook,Rarely,1094,Average
+12/13/2024 14:43,29,Male,CSE,4,Facebook,Rarely,1004,Average
+12/13/2024 14:28,23,Male,EEE,2,Facebook,Rarely,182,Average
+12/13/2024 15:57,29,Female,Computer Science,3,Facebook,Rarely,25,Average
+12/13/2024 14:28,25,Male,Computer Science,2,Instagram,Rarely,725,Good
+12/13/2024 14:43,32,Female,Computer Science,2,Twitter,Rarely,764,Average
+12/13/2024 14:22,20,Male,CSE,2,Facebook,Rarely,298,Average
+12/13/2024 14:35,27,Male,IT,3,Facebook,Rarely,1013,Poor
+12/13/2024 14:21,29,Male,Computer Science & Engineering,4,Instagram,Rarely,8,Average
+12/13/2024 14:07,22,Male,Computer Science,3,Facebook,Sometimes,670,Good
+12/13/2024 14:40,22,Female,EEE,2,Twitter,Rarely,165,Average
+12/13/2024 14:13,21,Male,Computer Science,1,LinkedIn,Rarely,504,Good
+12/13/2024 14:20,26,Female,Computer Science,3,Facebook,Rarely,24,Average
+12/13/2024 14:02,29,Female,EEE,2,Facebook,Rarely,1059,Poor
+12/13/2024 14:35,21,Male,EEE,2,Facebook,Rarely,627,Average
+12/13/2024 14:35,32,Female,Computer Science,2,Instagram,Rarely,567,Good
+12/13/2024 14:40,23,Male,Computer Science,3,Facebook,Sometimes,511,Average
+12/13/2024 14:07,28,Female,Computer Science,2,Facebook,Rarely,716,Average
+12/13/2024 14:43,28,Male,Computer Science,1,Facebook,Rarely,3323,Good
+12/13/2024 14:21,21,Male,Computer Science,2,Facebook,Rarely,1184,Average
+12/13/2024 14:17,20,Male,EEE,4,Facebook,Rarely,21,Average
+12/13/2024 14:05,28,Male,Computer Science,2,Facebook,Rarely,34,Poor
+12/13/2024 14:20,29,Female,IT,4,LinkedIn,Rarely,772,Average
+12/13/2024 14:43,30,Male,Computer Science,1,Facebook,Rarely,2742,Good
+12/13/2024 14:35,22,Male,Computer Science,2,Facebook,Rarely,759,Average
+12/13/2024 14:13,22,Male,CSE,2,Facebook,Rarely,291,Good
+12/13/2024 14:21,28,Male,Computer Science,2,Facebook,Rarely,1161,Average
+12/13/2024 14:35,29,Male,IT,2,Facebook,Rarely,823,Average
+12/13/2024 15:45,27,Male,Computer Science & Engineering,3,Instagram,Rarely,7,Average
+12/13/2024 14:05,27,Female,CSE,3,Facebook,Sometimes,565,Average
+12/13/2024 14:20,25,Male,Computer Science,2,LinkedIn,Sometimes,2651,Good
+12/13/2024 14:21,30,Male,EEE,2,Facebook,Rarely,1261,Average
+12/13/2024 14:35,24,Male,CSE,4,LinkedIn,Rarely,512,Good
+12/13/2024 14:17,28,Female,Computer Science,4,LinkedIn,Rarely,829,Good
+12/13/2024 14:20,24,Male,Computer Science,3,Facebook,Rarely,1019,Average
+12/13/2024 14:35,23,Male,IT,4,Instagram,Rarely,863,Average
+12/13/2024 14:20,24,Male,IT,4,Facebook,Rarely,866,Average
+12/13/2024 14:35,26,Male,IT,4,Instagram,Rarely,473,Good
+12/13/2024 14:02,25,Female,IT,3,Facebook,Rarely,8,Poor
+12/13/2024 14:20,28,Male,IT,4,Facebook,Rarely,877,Average
+12/13/2024 14:28,25,Male,EEE,2,Instagram,Rarely,211,Average
+12/13/2024 14:35,24,Female,IT,3,Instagram,Sometimes,547,Average
+12/13/2024 14:28,28,Female,Computer Science,2,Twitter,Rarely,167,Average
+12/13/2024 14:35,28,Male,Computer Science,1,Instagram,Sometimes,1088,Good
+12/13/2024 14:20,21,Male,EEE,1,Facebook,Rarely,288,Average
+12/13/2024 14:07,22,Male,Computer Science & Engineering,2,Facebook,Rarely,666,Average
+12/13/2024 14:35,30,Female,Computer Science,2,Facebook,Rarely,695,Average
+12/13/2024 14:35,25,Male,Computer Science,2,LinkedIn,Rarely,614,Average
+12/13/2024 14:20,24,Male,Computer Science,3,Instagram,Sometimes,2178,Poor
+12/13/2024 14:20,23,Female,Computer Science,3,Facebook,Sometimes,2485,Good
+12/13/2024 14:20,27,Male,IT,4,Facebook,Rarely,1084,Good
+12/13/2024 14:33,21,Male,Computer Science,2,Instagram,Rarely,10,Poor
+12/13/2024 14:05,28,Male,Computer Science,2,Facebook,Rarely,29,Poor
+12/13/2024 14:43,20,Male,EEE,1,Facebook,Rarely,3269,Average
+12/13/2024 15:57,28,Male,Computer Science,1,LinkedIn,Sometimes,1342,Good
+12/13/2024 14:13,23,Male,Computer Science,2,Facebook,Rarely,1080,Average
+12/13/2024 14:35,32,Male,IT,2,Facebook,Rarely,783,Average
+12/13/2024 14:35,28,Male,CSE,3,Instagram,Rarely,620,Poor
+12/13/2024 14:35,27,Male,CSE,2,Facebook,Rarely,702,Average
+12/13/2024 14:05,26,Male,Computer Science & Engineering,2,Facebook,Rarely,35,Average
+12/13/2024 14:22,29,Male,Computer Science,3,Facebook,Sometimes,2421,Good
+12/13/2024 14:13,29,Female,CSE,1,Facebook,Rarely,571,Poor
+12/13/2024 14:35,20,Male,EEE,2,Twitter,Rarely,221,Average
+12/13/2024 14:43,28,Male,IT,1,LinkedIn,Rarely,2411,Good
+12/13/2024 14:43,28,Male,CSE,1,Facebook,Rarely,2673,Good
+12/13/2024 14:22,26,Male,CSE,2,Twitter,Rarely,534,Poor
+12/13/2024 14:28,29,Female,Computer Science & Engineering,2,Facebook,Rarely,577,Poor
+12/13/2024 14:28,22,Male,EEE,2,Twitter,Rarely,481,Poor
+12/13/2024 14:05,20,Female,Computer Science,3,LinkedIn,Sometimes,560,Good
+12/13/2024 14:20,26,Male,Computer Science & Engineering,4,Facebook,Rarely,811,Average
+12/13/2024 14:35,27,Female,IT,3,LinkedIn,Sometimes,403,Poor
+12/13/2024 14:20,27,Male,Computer Science,3,Facebook,Sometimes,2794,Good
+12/13/2024 14:20,26,Female,IT,4,Twitter,Rarely,827,Poor
+12/13/2024 14:33,21,Male,Computer Science,3,Facebook,Rarely,27,Average
+,23,Male,CSE,3,Facebook,Rarely,400,Average
+,22,Female,EEE,1,Twitter,Never,50,Poor
+,26,Male,CSE,2,LinkedIn,Rarely,300,Good
+,25,Female,IT,3,Instagram,Sometimes,200,Good
+,24,Male,CSE,4,Facebook,Never,100,Average
+,23,Female,EEE,2,Twitter,Rarely,150,Average
+,27,Male,CSE,3,Facebook,Sometimes,500,Good
+,25,Male,IT,1,LinkedIn,Rarely,250,Average
+,24,Female,CSE,2,Instagram,Sometimes,300,Good
+,26,Male,EEE,3,Twitter,Never,100,Average
+,25,Female,CSE,4,Facebook,Rarely,600,Good
+,23,Male,IT,2,LinkedIn,Sometimes,400,Good
+,24,Female,CSE,3,Instagram,Rarely,200,Average
+,22,Male,EEE,1,Twitter,Never,50,Poor
+,26,Female,CSE,2,LinkedIn,Rarely,300,Good
+,25,Male,IT,3,Instagram,Sometimes,200,Good
+,24,Female,CSE,4,Facebook,Never,100,Average
+,23,Male,EEE,2,Twitter,Rarely,150,Average
+,27,1,CSE,3,Facebook,Sometimes,500,Good
+,25,Male,IT,1,LinkedIn,Rarely,250,Average
+,24,1,CSE,2,Instagram,Sometimes,300,Good
+,26,Male,EEE,3,Twitter,Never,100,Average
+,25,1,CSE,4,Facebook,Rarely,600,Good
+,23,Male,IT,2,LinkedIn,Sometimes,400,Good
+,24,1,CSE,3,Instagram,Rarely,200,Average
+,22,Male,EEE,1,Twitter,Never,50,Poor
+,26,1,CSE,2,LinkedIn,Rarely,300,Good
+,25,Male,IT,3,Instagram,Sometimes,200,Good
+,24,Male,CSE,4,Facebook,Never,100,Average
+,36,Male,Computer Science,3,Facebook,Daily,222,Poor
+,29,Male,Computer Science,5,LinkedIn,Sometimes,878,Average
+,35,Male,Engineering,6,TikTok,Sometimes,864,Average
+,34,Male,Business,8,LinkedIn,Never,198,Poor
+,34,Female,Psychology,1,Facebook,Often,129,Poor
+,38,Female,Arts,10,TikTok,Often,935,Poor
+,31,Female,Business,5,LinkedIn,Daily,262,Poor
+,39,Male,Arts,3,TikTok,Never,252,Poor
+,22,Male,Engineering,9,Instagram,Sometimes,813,Poor
+,24,Male,Engineering,8,Instagram,Often,278,Poor
+,38,Female,Computer Science,10,LinkedIn,Never,725,Poor
+,26,Male,Psychology,4,TikTok,Often,276,Average
+,28,Male,Arts,6,Facebook,Often,708,Average
+,26,Female,Business,6,LinkedIn,Sometimes,581,Average
+,37,Male,Engineering,10,Instagram,Rarely,490,Poor
+,23,Female,Computer Science,1,Instagram,Daily,451,Poor
+,33,Female,Computer Science,3,LinkedIn,Daily,96,Poor
+,37,Female,Arts,2,TikTok,Sometimes,282,Good
+,28,Male,Engineering,3,Instagram,Often,354,Average
+,21,Male,Psychology,5,TikTok,Never,575,Poor
+,39,Male,Engineering,4,Instagram,Often,192,Average
+,34,Male,Arts,4,Instagram,Sometimes,464,Average
+,26,Male,Arts,9,Twitter,Daily,562,Poor
+,31,Male,Engineering,9,Instagram,Often,422,Poor
+,27,Male,Arts,1,Facebook,Daily,615,Poor
+,34,Female,Engineering,2,LinkedIn,Never,935,Good
+,22,Male,Business,7,LinkedIn,Daily,308,Poor
+,33,Female,Engineering,4,TikTok,Daily,705,Poor
+,36,Male,Engineering,3,Instagram,Rarely,520,Average
+,23,Male,Arts,3,Facebook,Rarely,61,Average
+,37,Male,Arts,4,TikTok,Rarely,379,Average
+,27,Female,Computer Science,9,Twitter,Daily,785,Poor
+,23,Female,Computer Science,2,TikTok,Sometimes,833,Good
+,21,Female,Business,7,TikTok,Daily,407,Poor
+,25,Female,Computer Science,6,Instagram,Sometimes,457,Average
+,29,Male,Engineering,3,Twitter,Sometimes,717,Average
+,23,Female,Arts,4,TikTok,Rarely,422,Average
+,37,Male,Computer Science,3,Facebook,Often,57,Average
+,31,Male,Computer Science,6,Facebook,Never,171,Poor
+,21,Female,Business,1,LinkedIn,Rarely,397,Good
+,29,Female,Business,1,Twitter,Rarely,725,Good
+,23,Female,Engineering,6,Twitter,Often,139,Average
+,33,Female,Arts,2,LinkedIn,Never,697,Good
+,35,Female,Business,1,TikTok,Daily,747,Poor
+,34,Female,Computer Science,4,Twitter,Daily,365,Poor
+,27,Female,Arts,1,Facebook,Rarely,227,Good
+,33,Female,Arts,9,Facebook,Rarely,589,Poor
+,27,Male,Computer Science,1,Instagram,Rarely,781,Good
+,35,Female,Business,6,Twitter,Sometimes,918,Average
+,32,Female,Computer Science,5,TikTok,Rarely,90,Average
+,37,Male,Arts,7,LinkedIn,Rarely,789,Poor
+,34,Female,Psychology,4,LinkedIn,Daily,753,Poor
+,32,Male,Psychology,2,TikTok,Daily,972,Poor
+,28,Male,Engineering,10,Instagram,Daily,551,Poor
+,34,Female,Computer Science,8,LinkedIn,Sometimes,194,Poor
+,32,Male,Computer Science,9,Twitter,Daily,250,Poor
+,20,Male,Engineering,3,Instagram,Never,978,Poor
+,26,Male,Engineering,1,Twitter,Often,773,Poor
+,28,Male,Engineering,3,Facebook,Rarely,510,Poor
+,20,Female,Arts,6,Instagram,Never,781,Poor
+,31,Male,Computer Science,4,LinkedIn,Daily,801,Poor
+,27,Female,Arts,8,Instagram,Often,974,Poor
+,30,Male,Engineering,3,Instagram,Often,958,Average
+,38,Male,Computer Science,10,Instagram,Often,607,Poor
+,36,Male,Arts,5,Instagram,Sometimes,596,Average
+,27,Male,Arts,8,Twitter,Daily,302,Poor
+,22,Female,Engineering,2,Facebook,Often,439,Poor
+,22,Female,Computer Science,4,TikTok,Sometimes,643,Average
+,20,Male,Engineering,7,Instagram,Rarely,932,Poor
+,24,Male,Computer Science,2,LinkedIn,Rarely,305,Good
+,29,Female,Psychology,2,Instagram,Sometimes,758,Good
+,26,Male,Business,10,LinkedIn,Sometimes,864,Poor
+,28,Male,Business,7,Twitter,Daily,970,Poor
+,26,Male,Business,1,LinkedIn,Daily,499,Poor
+,28,Female,Engineering,4,TikTok,Rarely,59,Average
+,27,Female,Psychology,5,Facebook,Often,873,Average
+,31,Female,Computer Science,8,LinkedIn,Rarely,847,Poor
+,21,Male,Arts,3,LinkedIn,Often,291,Average
+,20,Male,Computer Science,2,Facebook,Often,300,Poor
+,35,Female,Arts,1,TikTok,Daily,926,Poor
+,24,Female,Computer Science,5,Instagram,Rarely,54,Poor
+,25,Male,CSE,2,Facebook,Rarely,1278,Average
+,24,Male,CSE,4,Instagram,Rarely,674,Good
+,24,Male,CSE,3,Facebook,Rarely,1700,Poor
+,26,Male,CSE,3,Facebook,Rarely,3000,Average
+,25,Male,CSE,2,Facebook,Rarely,1300,Average
+,25,Male,CSE,4,Facebook,Often,2700,Average
+,26,Male,CSE,1,Facebook,Never,600,Average
+,16,Male,CSE,2,Facebook,Rarely,2000,Average
+,24,Male,CSE,2,Facebook,Never,1600,Good
+,25,Male,CSE,2,Instagram,Sometimes,1700,Poor
+,26,Male,CSE,1,Facebook,Never,800,Good
+,25,Male,CSE,2,Facebook,Rarely,1300,Average
+,24,Female,CSE,3,Facebook,Rarely,500,Good
