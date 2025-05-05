@@ -1,20 +1,65 @@
-# Smile Classifier
 
-A web-based application for detecting smiles in facial images using a custom-trained convolutional neural network (CNN). The project allows users to upload images, classify them as "smiling" or "not smiling," and view a history of classifications.
+---
 
-## Features
-- **Home Page:** Overview of the training process and methodology used to develop the smile classifier.
-- **Classify Page:** Upload an image, convert it to the appropriate format if necessary, and classify it in real-time.
-- **History Page:** View a table of previous classifications with image paths, predicted class, and timestamps.
+## 📊 Datasets Overview
 
-## Tech Stack
-- **Model Training:** TensorFlow (CNN) for smile detection.
-- **Web Framework:** FastAPI for application development.
-- **Database:** MySQL for storing classification history.
-- **Containerization:** Docker for deploying the project and database in a unified network.
-- **Other Tools:** Scikit-learn, SQLAlchemy for ORM, and image processing utilities.
+### 1. Mental Health Survey Dataset
+**Goal:** Assess mental health based on sleep, stress, exercise, and social interaction.
 
-## Deployment
-The project is fully containerized using Docker and accessible over a mapped port, ensuring smooth deployment and scalability.
+| Feature                    | Type        |
+|---------------------------|-------------|
+| Age                       | Numerical   |
+| Gender                    | Categorical |
+| Hours of Sleep            | Numerical   |
+| Stress Level (1–10)       | Numerical   |
+| Exercise Frequency (0–4)  | Categorical |
+| Social Interaction (0–4)  | Categorical |
+| **Mental Health Status**  | Target (Good, Fair, Poor) |
 
-Explore the full code and documentation in this repository. 🚀
+---
+
+### 2. Commute Time Dataset
+**Goal:** Analyze how distance, transport mode, and traffic impact daily commute.
+
+| Feature                   | Type        |
+|--------------------------|-------------|
+| Age                      | Numerical   |
+| Gender                   | Categorical |
+| Major                    | Categorical |
+| Distance from Office     | Numerical   |
+| Mode of Transport        | Categorical |
+| Traffic Conditions       | Categorical |
+| **Commute Time**         | Target (Minutes) |
+
+---
+
+### 3. Social Media Usage Dataset
+**Goal:** Explore how social media usage relates to academic performance and social activity.
+
+| Feature                          | Type        |
+|----------------------------------|-------------|
+| Age                              | Numerical   |
+| Gender                           | Categorical |
+| Major                            | Categorical |
+| Hours on Social Media (Daily)    | Numerical   |
+| Primary Platform                 | Categorical |
+| Frequency of Posting (0–4)       | Categorical |
+| Number of Friends                | Numerical   |
+| **Academic Performance**         | Target (Good, Average, Poor) |
+
+---
+
+## 📈 Techniques Used
+- **Data Cleaning** and Feature Engineering
+- **Exploratory Data Analysis (EDA)** using Python libraries like `pandas`, `seaborn`, and `matplotlib`
+- **Clustering & Classification** models (e.g., KMeans, Decision Trees)
+- Summary of insights for each dataset
+
+---
+
+## 🛠 Requirements
+
+Install all dependencies using:
+
+```bash
+pip install -r requirements.txt
